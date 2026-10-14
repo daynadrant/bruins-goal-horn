@@ -39,7 +39,6 @@ On a Raspberry Pi OS install you may need `sudo apt install pigpio` first.
 | `main.py` | The goal monitor: API polling, LED and button handling, audio and shutdown |
 | `boston_audio.mp3` | Goal song played during a celebration |
 | `requirements.txt` | Python dependencies |
-| `test_api.py` | Early prototype that watched a different, key-based sports API. Not used by `main.py`. |
 
 ## Customizing
 
